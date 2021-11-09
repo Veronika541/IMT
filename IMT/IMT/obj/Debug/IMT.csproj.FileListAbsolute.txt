@@ -1,0 +1,15 @@
+A:\IMT\IMT\IMT\bin\Debug\IMT.exe.config
+A:\IMT\IMT\IMT\bin\Debug\IMT.exe
+A:\IMT\IMT\IMT\bin\Debug\IMT.pdb
+A:\IMT\IMT\IMT\obj\Debug\IMT.csproj.AssemblyReference.cache
+A:\IMT\IMT\IMT\obj\Debug\MainWindow.g.cs
+A:\IMT\IMT\IMT\obj\Debug\App.g.cs
+A:\IMT\IMT\IMT\obj\Debug\IMT_MarkupCompile.cache
+A:\IMT\IMT\IMT\obj\Debug\IMT_MarkupCompile.lref
+A:\IMT\IMT\IMT\obj\Debug\MainWindow.baml
+A:\IMT\IMT\IMT\obj\Debug\IMT.g.resources
+A:\IMT\IMT\IMT\obj\Debug\IMT.Properties.Resources.resources
+A:\IMT\IMT\IMT\obj\Debug\IMT.csproj.GenerateResource.cache
+A:\IMT\IMT\IMT\obj\Debug\IMT.csproj.CoreCompileInputs.cache
+A:\IMT\IMT\IMT\obj\Debug\IMT.exe
+A:\IMT\IMT\IMT\obj\Debug\IMT.pdb
